@@ -8,4 +8,5 @@ Basic concepts about Pandas library in Python
 -- adding rows or columns
 -- pandas dataframe application - geocode
 
+* supermarkets.*** are just data files
 * I used PyCharm so there are lots of print statements to display the output
